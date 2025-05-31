@@ -17,5 +17,5 @@ Este sistema, é modelado em torno de duas entidades principais que representa a
 
 Um time de futebol essa associados com um ou mais jogadores 
 
-## Para um descrição mais detalhada do sistema e das classeses veja no link abaixo
-[Trabalho A3 Programação.drawio (1).pdf](https://github.com/user-attachments/files/20533699/Trabalho.A3.Programacao.drawio.1.pdf)]
+## Para um descrição mais detalhada do sistema e das classeses veja no link abaixo 
+ ![Trabalho A3 Programação.drawio (1).pdf](https://github.com/user-attachments/files/20533699/Trabalho.A3.Programacao.drawio.1.pdf)]
