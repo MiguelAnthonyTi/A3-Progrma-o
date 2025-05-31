@@ -4,11 +4,11 @@
 Esse sistema tem como objetivo: gerenciamento de times de futebol, seus jogadores, técnicos e informações de fundação. Ele permite operações como contratar e remover jogadores
 
 ## Funcionalidade Principal 
---> Cadastro de times 
---> Cadastro dos jogadores 
---> Remover jogadores
---> Visualização do elenco 
---> Escalação do time 
+* Cadastro de times 
+* Cadastro dos jogadores 
+* Remover jogadores
+* Visualização do elenco 
+* Escalação do time 
 
 ## Estrutura Principal (Classes)
 Este sistema, é modelado em torno de duas entidades principais que representa as principais estrutura de um time 
