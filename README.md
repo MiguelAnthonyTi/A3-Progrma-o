@@ -12,8 +12,8 @@ Esse sistema tem como objetivo: gerenciamento de times de futebol, seus jogadore
 
 ## Estrutura Principal (Classes)
 Este sistema, é modelado em torno de duas entidades principais que representa as principais estrutura de um time 
-* **'TimeFutebol' ** que neste caso é responsavel pelas as informações gerais do time escolhido, que no caso são as principais, como , nome, cnpj, elenco titular, tecnico, essas coisas 
-* ** 'Jogador' ** Representa cada atleta do time, contendo seus dados pessoais principais dentro de um time, que seriam, nome, posição, numero da camisa e um nivel de habilidade 
+* **'TimeFutebol'**: que neste caso é responsavel pelas as informações gerais do time escolhido, que no caso são as principais, como , nome, cnpj, elenco titular, tecnico, essas coisas 
+* **'Jogador'**: Representa cada atleta do time, contendo seus dados pessoais principais dentro de um time, que seriam, nome, posição, numero da camisa e um nivel de habilidade 
 
 Um time de futebol essa associados com um ou mais jogadores 
 
